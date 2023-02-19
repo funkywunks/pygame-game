@@ -1,9 +1,9 @@
 ## Controls
 
 * `UP ARROW KEY`: Go forwards
-  * "Forwards" is simply `{s * dt * cos($\theta$), s * dt * sin($\theta$)}`
+  * "Forwards" is simply `{s * dt * cos(θ), s * dt * sin(θ)}`
     * s = speed (in pixels)
     * dt = delta time
-    * Θ = angle in radians
+    * θ = angle in radians
 * `LEFT ARROW KEY`: Rotate left
 * `RIGHT ARROW KEY`: Rotate right
